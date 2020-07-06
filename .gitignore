@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Problems/Symmetrical number/out/
+/Problems/Symmetrical number/out/production/classes/
+/Problems/The count of numbers divisible by N/out/
+/Problems/The count of numbers divisible by N/out/production/classes/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Simple Chatty Bot/task/out/test/classes/
